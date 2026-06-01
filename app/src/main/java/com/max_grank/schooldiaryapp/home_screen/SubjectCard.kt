@@ -40,6 +40,7 @@ fun SubjectCard() {
             .fillMaxSize()
             .clip(RoundedCornerShape(10.dp))
     ) {
+     //   Spacer(modifier = Modifier.height(306.dp))
         Column(
             modifier = Modifier
                 .fillMaxWidth()
